@@ -126,7 +126,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>ssh-slaves</artifactId>
-      <version>1.10</version>
+      <version>1.13</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.webflow</groupId>
