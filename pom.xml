@@ -21,9 +21,9 @@
   <url>https://github.com/limd0024/CE4062_Assignment</url>
 <dependencies>
     <dependency>
-      <groupId>org.jboss.resteasy</groupId>
-      <artifactId>resteasy-jaxb-provider</artifactId>
-      <version>2.3.1.GA</version>
+      <groupId>org.springframework.security</groupId>
+      <artifactId>spring-security-core</artifactId>
+      <version>3.0.5.RELEASE</version>
     </dependency>
 </dependencies>
 </project>
