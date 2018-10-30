@@ -21,9 +21,9 @@
   <url>https://github.com/limd0024/CE4062_Assignment</url>
 <dependencies>
     <dependency>
-      <groupId>org.apache.storm</groupId>
-      <artifactId>storm-core</artifactId>
-      <version>1.1.0</version>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-server</artifactId>
+      <version>9.4.6.v20170531</version>
     </dependency>
 </dependencies>
 </project>
