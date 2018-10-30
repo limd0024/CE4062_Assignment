@@ -21,9 +21,9 @@
   <url>https://github.com/limd0024/CE4062_Assignment</url>
 <dependencies>
     <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-      <artifactId>jetty-server</artifactId>
-      <version>9.4.6.v20170531</version>
+      <groupId>org.apache.tika</groupId>
+      <artifactId>tika-core</artifactId>
+      <version>1.13</version>
     </dependency>
 </dependencies>
 </project>
