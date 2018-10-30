@@ -21,9 +21,9 @@
   <url>https://github.com/limd0024/CE4062_Assignment</url>
 <dependencies>
     <dependency>
-      <groupId>org.elasticsearch</groupId>
-      <artifactId>elasticsearch</artifactId>
-      <version>1.5.2</version>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-rt-transports-http</artifactId>
+      <version>3.0.5</version>
     </dependency>
 </dependencies>
 </project>
