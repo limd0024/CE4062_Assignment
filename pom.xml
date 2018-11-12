@@ -21,9 +21,9 @@
   <url>https://github.com/limd0024/CE4062_Assignment</url>
 <dependencies>
 	<dependency>
-	    <groupId>org.springframework.boot</groupId>
-	    <artifactId>spring-boot</artifactId>
-	    <version>1.5.9.RELEASE</version>
+	    <groupId>org.apache.commons</groupId>
+	    <artifactId>commons-compress</artifactId>
+	    <version>1.14</version>
 	</dependency>
 </dependencies>
 </project>
